@@ -5,9 +5,11 @@ footer {
     text-align: center;
 }
 
-.card-img-top{
-height:300px;
-}
 .card-img-top:hover {
     opacity: 0.5;
 }
+
+#movia {
+    background-color: darkslategray;
+}
+
