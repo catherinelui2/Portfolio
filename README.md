@@ -1,4 +1,4 @@
-# Responsive
+# Portfolio
 Week 2 Homework 
 
 ## What is this for?
